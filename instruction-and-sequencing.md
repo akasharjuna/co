@@ -22,7 +22,7 @@ We're talking about moving data around inside a computer.This could mean shiftin
 **3.Registers in I/O Devices**: These are like special storage spaces in input/output devices, such as keyboards or displays.
 
 We use these locations to keep track of where data is and where it needs to go. This helps the computer efficiently handle information as it's processed and moved around.
-
+![Uploading Aspose.Words.65f92424-9d14-4234-9d15-cf73504a9d2f.001.jpeg…]()
 ![](Aspose.Words.65f92424-9d14-4234-9d15-cf73504a9d2f.001.jpeg)
 ## **ASSEMBLY LANGUAGE NOTATION**
 Another sort of notation used to express programs and machine instructions is assembly language notation
