@@ -23,11 +23,9 @@ We're talking about moving data around inside a computer.This could mean shiftin
 
 We use these locations to keep track of where data is and where it needs to go. This helps the computer efficiently handle information as it's processed and moved around.
 ![Aspose Words 65f92424-9d14-4234-9d15-cf73504a9d2f 001](https://github.com/akasharjuna/co/assets/159150741/5f2cc420-2947-42a9-a12d-e0c3856692ee)
-
 ## **ASSEMBLY LANGUAGE NOTATION**
 Another sort of notation used to express programs and machine instructions is assembly language notation
-
-![](Aspose.Words.65f92424-9d14-4234-9d15-cf73504a9d2f.002.jpeg)
+![Aspose Words 65f92424-9d14-4234-9d15-cf73504a9d2f 002](https://github.com/akasharjuna/co/assets/159150741/7d8e20ee-0d4c-4f6c-bf49-b3a40e735577)
 
 MOVE R2, R1, for instance 
 
@@ -54,7 +52,7 @@ Branching that is conditional occurs when a certain requirement is met.
 
 An example would be Branch>0 LOOP –conditional branch instruction.If the condition is met, it will only execute.
 ## **Instruction sequencing**
-![](Aspose.Words.65f92424-9d14-4234-9d15-cf73504a9d2f.003.jpeg)
+![Aspose Words 65f92424-9d14-4234-9d15-cf73504a9d2f 003](https://github.com/akasharjuna/co/assets/159150741/36192485-9412-49a4-afd8-566034888fb9)
 
 Processor has program counter (PC) register
 
